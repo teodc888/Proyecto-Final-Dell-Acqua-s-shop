@@ -1,0 +1,48 @@
+.Titulo {
+ 	color: #d50000 ;
+ 	background-color: black;
+ 	font-size: 1.50em;
+ 	margin: -32px 0 0 0px;
+ }
+ .Campodetexto1{
+
+ }
+ .Boton1{
+ 	margin: -55px 0 0 200px;
+ }
+
+.nav-wrapper {
+	background-color: #d50000;
+}
+
+.linea1 {
+	margin: 15px 0 0 0;  
+	color: #FFFFFF ;      	
+}
+
+.categoria {
+	color: #1e88e5;
+}
+
+.celulares {
+	color: #1e88e5 ;
+ 	margin: -32px 0 0 0px;
+}
+
+.linea2 {
+	margin: 50px 0 0 0;
+}
+
+.televisores {
+	color: #1e88e5 ;
+ 	margin: -32px 0 0 0px;
+
+}
+
+.collection {
+	background-color: #d50000;
+}
+
+.quienessomos{
+	color: #1e88e5;
+}
